@@ -60,14 +60,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshsrin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A855F7&text_color=C9D1D9&ring_color=EC4899" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshsrin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaisrin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A855F7&text_color=C9D1D9&ring_color=EC4899" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaisrin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshsrin&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=A855F7&fire=EC4899&currStreakLabel=6366F1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaisrin&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=A855F7&fire=EC4899&currStreakLabel=6366F1" />
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/akshsrin/akshsrin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/akshaisrin/akshaisrin/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -93,6 +93,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=akshsrin&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=akshaisrin&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile views" />
 
 </div>
