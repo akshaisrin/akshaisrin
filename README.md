@@ -61,12 +61,8 @@
 
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaisrin&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=A855F7&fire=EC4899&currStreakLabel=6366F1" />
-
+<img src="https://streak-stats.demolab.com/?user=akshaisrin&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
-
----
 
 ## 📈 Activity
 
