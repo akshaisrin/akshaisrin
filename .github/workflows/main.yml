@@ -1,20 +1,16 @@
 name: Generate Contribution Snake
-
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     name: Generate and Push Snake
     runs-on: ubuntu-latest
-
     steps:
-      
       - name: Checkout repository
         uses: actions/checkout@v3
-
+      
       - name: Generate Snake
         uses: Platane/snk@v3
         id: snake
@@ -22,14 +18,12 @@ jobs:
           github_user_name: akshaisrin
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-dark.gif?palette=github-dark&color_snake=orange&color_dots=#0d1117,#161b22,#21262d,#30363d,#484f58
-
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#58a6ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+      
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
-          repo: akshaisrin/akshaisrin
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
