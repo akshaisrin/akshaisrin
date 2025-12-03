@@ -11,22 +11,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repo
       - uses: actions/checkout@v3
 
-      # Generate Snake SVG
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: akshsrin
+          github_user_name: akshaisrin
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      # Push to output branch using PAT
+   
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
-          repo: akshsrin/akshsrin  # required if using a PAT
+          repo: akshaisrin/akshaisrin
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
