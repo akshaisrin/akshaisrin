@@ -44,6 +44,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-DC382D?style=for-the-badge&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-326CE5?style=for-the-badge&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-009688?style=for-the-badge&logoColor=white)
 
 ### Tools & Frameworks
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logoColor=white)
