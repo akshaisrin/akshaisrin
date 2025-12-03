@@ -57,12 +57,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=akshaisrin&theme=tokyonight"/>
-</div>
 
 ## 📈 Activity
 
