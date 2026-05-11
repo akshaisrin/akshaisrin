@@ -14,6 +14,7 @@ jobs:
       - run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
+          git pull --rebase
           git add -A
           git commit -m "Generate Pac-Man contribution graph"
           git push
