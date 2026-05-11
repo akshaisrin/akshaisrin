@@ -13,9 +13,4 @@ jobs:
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: akshaisrin
-      - run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git add -A
-          git commit -m "Generate Pac-Man contribution graph" || true
-          git push --force
+          github_token: ${{ secrets.GITHUB_TOKEN }}
