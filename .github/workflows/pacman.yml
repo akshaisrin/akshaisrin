@@ -8,13 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: akshaisrin
       - run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
-          git pull --rebase origin main
           git add -A
           git commit -m "Generate Pac-Man contribution graph" || true
-          git push
+          git push --force
