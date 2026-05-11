@@ -8,11 +8,14 @@
 
 ### 👨‍💻 About
 
-• I'm a **CS & Applied Math** undergrad at **UW Seattle**
+• I'm a **Computer Engineering & Applied Math** undergrad at **UW Seattle**
 
-• I'm the **President** of UW's **Tech Consulting Association** and a developer at **DubHacks**
+• I'm an **Undergraduate Research Assistant** at the Allen School's **WEIRD Lab** and the **Director of Technology** at **DubHacks**
 
-• I'm passionate about **full-stack dev**, **ML**, **robotics**, and leveraging **AI to solve complex problems at scale**
+• This summer, I'll be joining **General Motors** as a **Machine Learning Engineering Intern** in the Bay
+
+• I'm passionate about **robotics**, **ML**, and the math tying it all together
+
 
 </div>
 
@@ -62,7 +65,11 @@
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/akshaisrin/akshaisrin/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./output/pacman-contribution-graph-light.svg">
+  <img alt="pacman contribution graph" src="./output/pacman-contribution-graph-light.svg">
+</picture>
 
 </div>
 
