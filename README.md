@@ -8,14 +8,9 @@
 
 ### 👨‍💻 About
 
-• I'm a **Computer Engineering & Applied Math** undergrad at **UW Seattle**
+Hey! I'm Akshai! I'm an undergrad at the University of Washington double majoring in computer engineering and applied math. I'm interested in robot learning, deep learning, physical AI, and robotics.
 
-• I'm an **Undergraduate Research Assistant** at the Allen School's **WEIRD Lab** and the **Director of Technology** at **DubHacks**
-
-• This summer, I'll be joining **General Motors** as a **Machine Learning Engineering Intern** in the Bay
-
-• I'm passionate about **robotics**, **ML**, and the math tying it all together
-
+My prior experience spans ROS visualization for Cruise's autonomous vehicles, controls software for a medical robotics company, and sim2real reinforcement learning research at the University of Washington. Outisde of this, I also serve as the Director of Technology for DubHacks, where I'm overseeing the technical infrastructure for the largest collegiate hackathon in the Pacific Northwest!
 
 </div>
 
